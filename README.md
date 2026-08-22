@@ -86,8 +86,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👥 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/dikshasinghthakur)
+- LinkedIn: [Your LinkedIn]=(https://www.linkedin.com/in/diksha-singh-thakur-b170a7308/)
 
 ## 🙏 Acknowledgments
 
