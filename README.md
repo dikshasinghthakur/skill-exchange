@@ -29,7 +29,7 @@ A modern, interactive platform for local communities to exchange skills and know
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/skill-exchange.git
+git clone https://github.com/dikshasinghthakur/skill-exchange.git
 ```
 
 2. Navigate to the project directory:
