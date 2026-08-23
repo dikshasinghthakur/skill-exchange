@@ -15,7 +15,7 @@ A modern, interactive platform for local communities to exchange skills and know
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://yourusername.github.io/skill-exchange/)
+[View Live Demo](https://dikshasinghthakur.github.io/skill-exchange/)
 
 ## 🛠️ Technologies Used
 
